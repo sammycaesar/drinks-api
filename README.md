@@ -5,6 +5,12 @@ This API is a recipe list of cafe drinks you can make at home. Inspired by Korea
 You can find the live link here: https://kafe-drinks.herokuapp.com/drinks
 
 
+### Upcoming features
+* Create a image database to host all drink images
+* Create catergories (tags)
+* Create a submission panel for public users to submit their fav drinks
+
+
 ### Support Features
 * Public (non-authenticated) users can access all causes on the platform
 
